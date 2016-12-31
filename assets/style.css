@@ -1,0 +1,27 @@
+html {
+  background: #000;
+}
+
+.logo {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.logo img {
+  height: 50%;
+  width: 50%;
+}
+
+.logo h1 {
+  color: white;
+  font-size: 4.7em;
+  margin-top: 20px;
+}
+
+.logo h2 {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
