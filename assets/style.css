@@ -1,22 +1,18 @@
 html {
   background: #000;
+  color: white;
+  font-family: 'Dosis', sans-serif;
 }
 
 .logo {
   text-align: center;
-  margin-top: 5%;
+
 }
 
 .logo img {
-  height: 50%;
-  width: 50%;
+  height: 20%;
+  width: 20%;
 }
-
-/*.logo h1 {
-  color: white;
-  font-size: 4.7em;
-  margin-top: 20px;
-}*/
 
 .logo h2 {
   color: white;
@@ -24,4 +20,43 @@ html {
 
 a {
   text-decoration: none;
+}
+
+.tour_sec h1 {
+  margin-top: 1em;
+  text-decoration: underline;
+  font-size: 50px;
+}
+
+.tour_dates {
+  margin-top: 1em;
+  text-decoration: none;
+}
+
+.dates_list {
+  /*width: 50%;*/
+  display: table;
+  margin: 0 auto;
+}
+
+.tour_dates li {
+  padding: 5px;
+  text-decoration: none;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.noice {margin-top: 5px;}
+
+.social {
+  color: white;
+  text-align: right;
+  margin-right: 2em;
+}
+
+.fa {padding: 10px;}
+
+.image_box h1 {
+  color: white;
+  font-size: 75px;
 }
