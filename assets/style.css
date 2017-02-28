@@ -9,6 +9,11 @@ html {
   background-size: cover;
 }
 
+.body {
+  background-color: black!important;
+  z-index: 100!important;
+}
+
 .logo {
   text-align: center;
 
