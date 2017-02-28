@@ -2,6 +2,11 @@ html {
   background: #000;
   color: white;
   font-family: 'Dosis', sans-serif;
+  background: url(images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .logo {
@@ -54,7 +59,7 @@ a {
   margin-right: 2em;
 }
 
-.fa {padding: 10px;}
+.fa {padding: 10px; color: white!important;}
 
 .image_box h1 {
   color: white;
