@@ -28,9 +28,8 @@ a {
 }
 
 .tour_sec h1 {
-  margin-top: 1em;
-  text-decoration: underline;
-  font-size: 50px;
+  margin-top: 30px;
+  font-size: 60px;
 }
 
 .tour_dates {
@@ -49,6 +48,7 @@ a {
   text-decoration: none;
   margin: 0 auto;
   text-align: left;
+  color: white;
 }
 
 .noice {margin-top: 5px;}
