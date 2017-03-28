@@ -32,6 +32,10 @@ a {
   text-decoration: none;
 }
 
+.tour_sec {
+  margin: 0 15em;
+}
+
 .tour_sec h1 {
   margin-top: 30px;
   font-size: 60px;
