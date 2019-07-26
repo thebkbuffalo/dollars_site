@@ -25,7 +25,9 @@ html {
 }
 
 .logo h2 {
-  color: white;
+  color: #5ebd5e;
+  text-shadow: 2px 2px 0px black;
+  font-size: 40px;
 }
 
 a {
@@ -43,7 +45,8 @@ a {
   margin-top: 0;
 }
 .tour_sec a {
-  color: #ff84ff;
+  color: #5ebd5e;
+  text-shadow: 2px 2px 0px black;
 }
 
 .tour_dates {
